@@ -32,8 +32,8 @@ This repository contains my training files and exercises from the **Python Begin
 
 The **Python Beginner Course** on Codedex.com covers the following topics (and more):
 
-- Basic syntax and data types
-- Control flow (if statements, loops)
+- Control flow
+- Loops
 - Functions
 - Lists, dictionaries, and other data structures
 - File handling
